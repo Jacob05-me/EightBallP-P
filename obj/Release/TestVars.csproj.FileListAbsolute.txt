@@ -1,0 +1,9 @@
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Release\TestVars.exe.config
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Release\TestVars.exe
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Release\TestVars.pdb
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.MainForm.resources
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.Properties.Resources.resources
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.exe
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Release\TestVars.pdb

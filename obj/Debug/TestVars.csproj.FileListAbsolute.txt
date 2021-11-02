@@ -1,0 +1,10 @@
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Debug\TestVars.exe.config
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Debug\TestVars.exe
+C:\Users\jacob\source\repos\TestVars\TestVars\bin\Debug\TestVars.pdb
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.MainForm.resources
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.Properties.Resources.resources
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.exe
+C:\Users\jacob\source\repos\TestVars\TestVars\obj\Debug\TestVars.pdb
